@@ -523,6 +523,7 @@ ul  li.active  a {
         color: var(--slate-500);
      }
      .payment{
+        position: center;
         display: flex;
         gap: 0.5rem;
      }
